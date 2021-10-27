@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>UnitTest</RootNamespace>
+    <AssemblyName>AssemblyMetadataUnitTest</AssemblyName>
+    <Authors>Brandt Redd (bredd)</Authors>
+    <Company>FileMeta</Company>
+    <Product>AssemblyMetadata Unit Test</Product>
+    <Description>Simple Unit Test for the AssemblyMetadata.cs CodeBit</Description>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <Copyright>Copyright 2021 by Brandt Redd. MIT 3 Clause License</Copyright>
+    <PackageProjectUrl />
+  </PropertyGroup>
+
+</Project>
