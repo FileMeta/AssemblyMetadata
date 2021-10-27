@@ -11,8 +11,9 @@
     <Description>Simple Unit Test for the AssemblyMetadata.cs CodeBit</Description>
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <FileVersion>1.0.1.0</FileVersion>
-    <Copyright>Copyright 2021 by Brandt Redd. MIT 3 Clause License</Copyright>
-    <PackageProjectUrl />
+    <Copyright>Copyright 2021 by Brandt Redd. BSD 3 Clause License</Copyright>
+    <PackageProjectUrl>https://github.com/FileMeta/AssemblyMetadata</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/FileMeta/AssemblyMetadata</RepositoryUrl>
   </PropertyGroup>
 
 </Project>

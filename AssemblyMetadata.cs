@@ -2,7 +2,7 @@
 ---
 name: AssemblyMetadata.cs
 description: Convenient and efficient retrieval of assembly metadata.
-url: https://raw.githubusercontent.com/FileMeta/AssemblyMetadata/main/AssemblyMetadata.cs
+url: https://github.com/FileMeta/AssemblyMetadata/raw/main/AssemblyMetadata.cs
 version: 1.0
 keywords: CodeBit
 dateModified: 2021-10-26
@@ -62,11 +62,6 @@ namespace FileMeta
         public AssemblyMetadata(Type type)
         {
             m_assembly = type.Assembly;
-        }
-
-        public AssemblyMetadata(Object obj)
-        {
-            m_assembly = obj.GetType().Assembly;
         }
 
         public string AllAttributes
